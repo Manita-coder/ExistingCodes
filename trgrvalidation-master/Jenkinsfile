@@ -1,0 +1,15 @@
+node{
+
+stage('checkout'){
+    git 'https://gitlab.digitas.com/boney.dsilva/trgrvalidation'
+}
+
+stage('compile'){
+    bat 'mvn compile'
+}
+
+stage('test'){
+    bat 'mvn test'
+}
+
+}

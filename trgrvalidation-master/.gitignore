@@ -1,0 +1,32 @@
+/target/
+test-output/old/Default suite/toc.html
+test-output/old/Default suite/methods.html
+test-output/old/Default suite/methods-alphabetical.html
+test-output/junitreports/TEST-trgrValidation.APITests.TestNGRunner.xml
+test-output/index.html
+test-output/emailable-report.html
+test-output/Default suite/Default test.xml
+test-output/Default suite/Default test.html
+test-output/testng-results.xml
+test-output/old/index.html
+test-output/old/Default suite/US_Test_Cases.properties
+test-output/old/Default suite/UK_Test_Cases.properties
+test-output/junitreports/TEST-trgrValidation.APITests.USTestRunner.xml
+test-output/Default suite/US_Test_Cases.xml
+test-output/Default suite/US_Test_Cases.html
+test-output/Default suite/UK_Test_Cases.xml
+test-output/Default suite/UK_Test_Cases.html
+results/logsForCurrentRunonly.txt
+results/basics/report.js
+results/advanced/report.html
+results/advanced/pretty.txt
+downloads/SDF.zip
+downloads/SDF-LineItems.csv
+downloads/SDF-AdGroups.csv
+downloads/SDF-AdGroupAds.csv
+test-output/testng-failed.xml
+test-output/old/Default suite/testng.xml.html
+test-output/old/Default suite/groups.html
+test-output/old/Default suite/classes.html
+test-output/Default suite/testng-failed.xml
+test-output/junitreports/TEST-trgrValidation.APITests.UKTestRunner.xml

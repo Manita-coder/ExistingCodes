@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Default suite">
+	<listeners>
+		<listener
+			class-name="trgrValidation.APITests.stepDefs.testNgHooks"></listener>
+	</listeners>
+
+	<tests>
+		<test verbose="2" name="USTestCasesSA360">
+			<classes>
+				<class name="trgrValidation.SA60Tests._4_All_Bild_Levels_seq_20_m20_0_10" />
+			</classes>
+		</test>		
+	</tests>
+</suite>
